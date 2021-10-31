@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "title": "JSON SERVER",
+      "author": "foo",
+      "id": 1
+    },
+    {
+      "title": "REACT",
+      "author": "facebook",
+      "id": 2,
+      "language": [
+        "react",
+        "node"
+      ]
+    },
+    {
+      "title": "BOOTSTRAP",
+      "author": "css master",
+      "id": 3,
+      "language": [
+        "bootstrap",
+        "css"
+      ]
+    },
+    {
+      "title": "MEDIUM",
+      "author": "medium",
+      "id": 4,
+      "language": [
+        "react"
+      ]
+    },
+    {
+      "title": "HEROKU",
+      "author": "medium",
+      "id": 6,
+      "language": [
+        "react"
+      ]
+    },
+    {
+      "title": "twitter",
+      "author": "twit",
+      "language": "bootstrap",
+      "id": 7
+    },
+    {
+      "title": "upwork",
+      "author": "ip",
+      "language": "wordpress",
+      "id": 8
+    },
+    {
+      "title": "aye",
+      "author": "aj",
+      "language": "html",
+      "id": 9
+    },
+    {
+      "title": "asd",
+      "author": "asd",
+      "language": "232",
+      "id": 10
+    },
+    {
+      "title": "asd",
+      "author": "asd",
+      "language": "asdasd",
+      "id": 11
+    },
+    {
+      "title": "ads",
+      "author": "asdasda",
+      "language": "asdasdads",
+      "id": 12
+    }
+  ]
+}
